@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Radhika Amar Desai is a software engineer with a passion for Data Science, Data Engineering, Python, and Frontend.
+Radhika Amar Desai is a software engineer with a passion for Data Science, Data Engineering, Python, Robotics, Machine Learning ,Computer Vision and Frontend.
             
 
 ### Streetcred:
