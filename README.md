@@ -1,22 +1,49 @@
-🚀 **Hi, I’m Radhika Amar Desai**
+# 🚀 Hi, I’m Radhika Amar Desai
 
-I’m a **Computer Science undergrad at VIT Chennai** passionate about building intelligent systems that bridge the gap between **research and real-world impact**. My journey spans from **automation tools at Schneider Electric** ⚡ to **medical AI research at Stryker** 🧠, where I work on computer vision and deep learning for medical imaging.
+I’m a **Computer Science undergraduate at VIT Chennai (CGPA: 9.24/10)** passionate about building intelligent systems at the intersection of **Computer Vision, Deep Learning, and AI Research**.
 
-💡 I love working at the intersection of **AI, healthcare, and automation** — from detecting PCOS using ultrasound images with a novel “Salt Segmentation” technique, to identifying fraudulent Ethereum transactions with deep learning & genetic algorithms.
+My journey has taken me from developing industrial automation solutions at **Schneider Electric** ⚡, to building medical imaging AI systems at **Stryker** 🏥, and now conducting research on **data-efficient deep learning and coreset selection at Airbus** ✈️.
 
-### 🔬 What I’m working on
+I enjoy tackling challenging problems where machine learning must be both effective and practical, whether that's improving training efficiency, understanding synthetic data, or developing AI solutions for healthcare.
 
-* Research Associate @ **Stryker Global Technology Center** (Medical Imaging, Computer Vision, Inpainting, Segmentation)
-* Building **Hire4Change** – a freelancing platform empowering marginalized communities
-* Exploring **fraud detection in blockchain** & publishing my work in international conferences
+### 🔬 What I'm Working On
 
-### 🛠️ Tech Stack
+* ✈️ **Computer Vision Intern @ Airbus**
 
-`Python` | `C++` | `PyTorch` | `OpenCV` | `Azure ML` | `Deep Learning` | `Image Segmentation` | `Inpainting`
+  * Researching coreset selection and data-efficient learning for deep neural networks.
+  * Evaluating data pruning techniques and developing novel embedding-space based selection methods.
+
+* 📄 **AI Research**
+
+  * Author of *Discriminative Span as a Predictor of Synthetic Data Utility via Classifier Reconstruction*.
+  * Investigating how synthetic data quality can be estimated before expensive downstream training.
+  * Exploring synthetic data generalization and representation learning.
+
+* 🌍 **Hire4Change**
+
+  * Building a platform aimed at creating employment opportunities for underserved and marginalized communities.
+
+### 💼 Previous Experience
+
+* 🏥 **Research Associate @ Stryker Global Technology Center**
+
+  * Worked on medical imaging AI involving segmentation, registration, temporal consistency, and inpainting.
+  * Developed scalable deep learning pipelines using PyTorch and Azure ML.
+
+* ⚡ **Project Trainee @ Schneider Electric (Doha, Qatar)**
+
+  * Built automation tools for industrial control systems.
+  * Developed solutions for communication testing between Foxboro and Triconex systems.
+  * Automated large-scale engineering workflows using Python and Visual Basic.
+
+### 🛠️ Technical Interests
+
+`Computer Vision` | `Deep Learning` | `PyTorch` | `Python` | `OpenCV` | `Machine Learning` | `Medical Imaging` | `Representation Learning` | `Synthetic Data` | `Azure ML`
 
 ### 🌎 Communities
 
-* 🎓 **Google WE Program** Scholar (Cohort 5 – Top 200 nationwide)
-* 🤖 **Dreadnought Robotics** Member
+* 🎓 **Google WE Program Scholar** (Cohort 5 – Top 200 nationwide)
+* 🤖 **Dreadnought Robotics Member**
+* 📚 Active contributor to AI and Machine Learning research communities
 
-📌 Check out my [Portfolio](https://radhika-amar-desai.github.io/Portfolio/) for more!
+📌 Check out my portfolio for research projects, publications, and open-source work.
