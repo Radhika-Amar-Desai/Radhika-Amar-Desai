@@ -2,48 +2,54 @@
 
 I’m a **Computer Science undergraduate at VIT Chennai (CGPA: 9.24/10)** passionate about building intelligent systems at the intersection of **Computer Vision, Deep Learning, and AI Research**.
 
-My journey has taken me from developing industrial automation solutions at **Schneider Electric** ⚡, to building medical imaging AI systems at **Stryker** 🏥, and now conducting research on **data-efficient deep learning and coreset selection at Airbus** ✈️.
+My journey has taken me from developing industrial automation solutions at **Schneider Electric** ⚡, to building medical imaging AI systems at **Stryker** 🏥, and now conducting research on **data-efficient deep learning and computer vision at Airbus** ✈️.
 
 I enjoy tackling challenging problems where machine learning must be both effective and practical, whether that's improving training efficiency, understanding synthetic data, or developing AI solutions for healthcare.
 
 ### 🔬 What I'm Working On
 
-* ✈️ **Computer Vision Intern @ Airbus**
+* 📄 **Discriminative Span as a Predictor of Synthetic Data Utility via Classifier Reconstruction**
 
-  * Researching coreset selection and data-efficient learning for deep neural networks.
-  * Evaluating data pruning techniques and developing novel embedding-space based selection methods.
+  * Investigating whether the usefulness of synthetic data can be estimated before expensive downstream training and evaluation.
+  * Exploring embedding-space analysis, representation learning, and classifier reconstruction.
 
-* 📄 **AI Research**
+* 🧠 **Synthetic Data & Generalization Research**
 
-  * Author of *Discriminative Span as a Predictor of Synthetic Data Utility via Classifier Reconstruction*.
-  * Investigating how synthetic data quality can be estimated before expensive downstream training.
-  * Exploring synthetic data generalization and representation learning.
+  * Studying why synthetic medical imaging datasets often fail to generalize despite strong benchmark performance.
+  * Developing task-aware metrics for evaluating synthetic data quality.
 
 * 🌍 **Hire4Change**
 
   * Building a platform aimed at creating employment opportunities for underserved and marginalized communities.
 
-### 💼 Previous Experience
+### 💼 Experience
 
-* 🏥 **Research Associate @ Stryker Global Technology Center**
+* ✈️ **Computer Vision Intern — Airbus**
 
-  * Worked on medical imaging AI involving segmentation, registration, temporal consistency, and inpainting.
-  * Developed scalable deep learning pipelines using PyTorch and Azure ML.
+  * Researching coreset selection and data-efficient learning for deep neural networks.
+  * Evaluating data pruning strategies and scalable training methodologies.
 
-* ⚡ **Project Trainee @ Schneider Electric (Doha, Qatar)**
+* 🏥 **Research Associate — Stryker Global Technology Center**
 
-  * Built automation tools for industrial control systems.
-  * Developed solutions for communication testing between Foxboro and Triconex systems.
-  * Automated large-scale engineering workflows using Python and Visual Basic.
+  * Developed deep learning pipelines for medical imaging tasks including segmentation, registration, temporal consistency, and inpainting.
+  * Built scalable experimentation and data-processing workflows using PyTorch and Azure ML.
+
+* ⚡ **Project Trainee — Schneider Electric (Doha, Qatar)**
+
+  * Automated industrial control system workflows and communication testing pipelines.
+  * Developed engineering productivity tools using Python and Visual Basic.
 
 ### 🛠️ Technical Interests
 
-`Computer Vision` | `Deep Learning` | `PyTorch` | `Python` | `OpenCV` | `Machine Learning` | `Medical Imaging` | `Representation Learning` | `Synthetic Data` | `Azure ML`
+`Computer Vision` | `Deep Learning` | `PyTorch` | `Python` | `OpenCV` | `Machine Learning` | `Medical Imaging` | `Synthetic Data` | `Representation Learning` | `Azure ML`
 
 ### 🌎 Communities
 
 * 🎓 **Google WE Program Scholar** (Cohort 5 – Top 200 nationwide)
 * 🤖 **Dreadnought Robotics Member**
-* 📚 Active contributor to AI and Machine Learning research communities
 
-📌 Check out my portfolio for research projects, publications, and open-source work.
+### 📌 Portfolio
+
+🌐 **Portfolio:** https://radhika-amar-desai.github.io/Portfolio/
+
+Feel free to explore my research projects, publications, internships, and open-source contributions.
